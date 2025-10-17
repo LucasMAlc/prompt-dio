@@ -19,7 +19,7 @@ Utilizar uma esteira de prompts para gerar cada etapa do processo criativo.
 - [ChatGPT](https://chat.openai.com/) 
 - [ElevenLabs](https://beta.elevenlabs.io/)
 
-## ✨ Como foi feito ?
+## ✨ Como foi feito?
 
 - Roteiro, texto e capa gerados via chatgpt
 - Audio gerado pela elevenLabs
